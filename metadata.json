@@ -1,0 +1,6 @@
+{
+  "name": "Local Chat",
+  "description": "A private, local-first messaging app with offline storage, rich media, status stories, voice notes, local backup, and device discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

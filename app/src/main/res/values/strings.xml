@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Local Chat</string>
+    <string name="tagline">Local, private messaging on your device</string>
+
+    <!-- Navigation / Tabs -->
+    <string name="tab_chats">Chats</string>
+    <string name="tab_status">Status</string>
+    <string name="tab_calls">Calls</string>
+    <string name="tab_nearby">Nearby</string>
+
+    <!-- Common Actions -->
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new_chat">New Chat</string>
+    <string name="action_new_group">New Group</string>
+    <string name="action_starred">Starred Messages</string>
+    <string name="action_clear_chat">Clear Chat</string>
+    <string name="action_delete_chat">Delete Chat</string>
+    <string name="action_mute">Mute Notifications</string>
+    <string name="action_unmute">Unmute</string>
+    <string name="action_pin">Pin Chat</string>
+    <string name="action_unpin">Unpin Chat</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_reply">Reply</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_star">Star</string>
+    <string name="action_unstar">Unstar</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_share">Share</string>
+
+    <!-- Chat composer -->
+    <string name="hint_message">Message</string>
+    <string name="send">Send</string>
+    <string name="recording_audio">Recording voice note…</string>
+    <string name="audio_recorded">Voice note ready</string>
+
+    <!-- Attachment sheet -->
+    <string name="attach_document">Document</string>
+    <string name="attach_camera">Camera</string>
+    <string name="attach_gallery">Gallery</string>
+    <string name="attach_audio">Audio</string>
+    <string name="attach_contact">Contact</string>
+    <string name="attach_quick_note">Quick Note</string>
+
+    <!-- Status -->
+    <string name="my_status">My Status</string>
+    <string name="add_status">Tap to add status update</string>
+    <string name="recent_updates">Recent updates</string>
+    <string name="viewed_updates">Viewed updates</string>
+    <string name="create_text_status">Type a status</string>
+
+    <!-- Calls -->
+    <string name="call_local_notice">Local voice &amp; video calls operate over peer-to-peer Wi-Fi/LAN without external servers.</string>
+    <string name="start_voice_call">Voice Call</string>
+    <string name="start_video_call">Video Call</string>
+    <string name="call_ongoing">Call in progress</string>
+    <string name="call_ended">Call ended</string>
+
+    <!-- Backup & Privacy -->
+    <string name="backup_title">Local Chat Backup</string>
+    <string name="backup_description">Export or restore your encrypted chats and media files to local storage or external drive.</string>
+    <string name="export_backup">Create Local Backup</string>
+    <string name="import_backup">Restore from File</string>
+    <string name="app_lock">App Lock</string>
+    <string name="app_lock_desc">Require passcode to open Local Chat</string>
+</resources>
